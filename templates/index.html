@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Instant health check for COVID 19</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    <div class="action-div question-div">
+                        <p>Please Let us Know your current body temprature?     1. Very high   2. High   3. Normal   4. Low</p>
+                        <input type="text" name="body_temp" placeholder="Answer as 1 or 2 or 3" required="required" />
+    </div>
+    <div id="2div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Are you feeling symptoms of dry cough?         1.Yes 2.No 3.Maybe</p>
+                        <input type="text" name="body_temp1" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>	
+      <div id="3div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Are you feeling Tiredness?         1.Yes 2.No 3.Maybe</p>
+                        <input type="text" name="body_temp2" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>  
+      <div id="4div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you have symptoms of runny nose?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp3" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div> 
+     <div id="5div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you have viral sore throat?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp4" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+     <div id="6div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you feel diffyculty in breathing?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp5" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+     <div id="7div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you have aches and pains?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp6" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+    <div id="8div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you feel nasal congestion?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp7" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+    <div id="9div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you have diarrhoea?         1.Yes 2.No 3.Maybe</p>
+                         <input type="text" name="body_temp8" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+     <div id="10div" class="question-wrapper d-none flex-column">
+                    <div class="action-div question-div">
+                        <p>Do you have any travel history?         1.Foreign travel 2.Local travel  3.No</p>
+                         <input type="text" name="body_temp9" placeholder="Answer as 1 or 2 or 3" required="required" />
+                    </div>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Check now</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text1 }}
+    <br>
+   <br>
+    {{ prediction_text2 }}
+ </div>
+
+
+</body>
+</html>

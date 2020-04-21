@@ -1,0 +1,1049 @@
+UserID,BodyTemp,DryCough,Tiredness,runnyNose,SoreThroat,DifficulyinBreathing,achesAndPains,nasalCongestion,diarrhoea,TravelHistory,Result,Covid probability
+1,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+2,very high,No,No,No,No,No,No,No,No,No,Fever,No
+3,very high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Local Travel,Fever,low
+4,very high,Yes,No,No,No,No,No,No,No,No,Flu,No
+5,very high,Yes,No,No,No,No,No,No,No,No,Fever,No
+6,very high,Yes,No,No,No,No,No,No,No,No,Fever,No
+7,very high,Yes,No,No,No,No,No,No,No,Local Travel,Fever,No
+8,very high,Yes,No,No,No,No,No,No,No,No,Fever,No
+9,very high,Yes,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+10,very high,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+11,very high,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+12,very high,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+13,very high,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+14,very high,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+15,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+16,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+17,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+18,very high,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+19,very high,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+20,very high,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+21,very high,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+22,very high,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+23,very high,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+24,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+25,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+26,very high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+27,very high,No,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+28,very high,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+29,very high,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+30,very high,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+31,very high,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+32,very high,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+33,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+34,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+35,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+36,very high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+37,very high,No,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+38,very high,No,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+39,very high,No,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+40,very high,No,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+41,very high,No,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+42,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+43,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+44,very high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+45,very high,Maybe,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+46,very high,Maybe,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+47,very high,Maybe,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+48,very high,Maybe,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+49,very high,Maybe,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+50,very high,Maybe,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+51,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+52,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+53,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+54,very high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+55,very high,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+56,very high,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+57,very high,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+58,very high,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+59,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+60,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+61,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+62,very high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+63,very high,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+64,very high,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+65,very high,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+66,very high,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+67,very high,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+68,very high,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+69,very high,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+70,very high,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+71,very high,Yes,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+72,very high,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+73,very high,Yes,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+74,very high,Yes,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+75,very high,Yes,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+76,very high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+77,very high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+78,very high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+79,very high,No,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+80,very high,No,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+81,very high,No,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+82,very high,No,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+83,very high,No,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+84,very high,No,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+85,very high,No,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+86,very high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+87,very high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+88,very high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+89,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+90,very high,No,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+91,very high,No,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+92,very high,No,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+93,very high,No,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+94,very high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+95,very high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+96,very high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+97,very high,Maybe,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+98,very high,Maybe,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+99,very high,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+100,very high,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+101,very high,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+102,very high,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+103,very high,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+104,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+105,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+106,very high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+107,very high,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+108,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+109,very high,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+110,very high,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+111,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+112,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+113,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+114,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+115,very high,Yes,No,No,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+116,very high,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+117,very high,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+118,very high,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+119,very high,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+120,very high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+121,very high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+122,very high,Yes,Maybe,No,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+123,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+124,very high,Yes,Maybe,No,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+125,very high,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+126,very high,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+127,very high,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+128,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+129,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+130,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+131,very high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+132,very high,No,No,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+133,very high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+134,very high,No,No,Maybe,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+135,very high,No,No,Maybe,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+136,very high,No,No,Maybe,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+137,very high,No,No,Maybe,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+138,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+139,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+140,very high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+141,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+142,very high,No,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+143,very high,No,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+144,very high,No,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+145,very high,No,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+146,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+147,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+148,very high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+149,very high,Maybe,No,Yes,No,No,No,No,No,Foreign Travel,Fever,No
+150,very high,Maybe,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+151,very high,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+152,very high,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+153,very high,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+154,very high,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+155,very high,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+156,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+157,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+158,very high,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+159,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+160,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+161,very high,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+162,very high,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+163,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+164,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+165,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+166,very high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+167,very high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+168,very high,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+169,very high,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+170,very high,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+171,very high,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+172,very high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+173,very high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+174,very high,Yes,Maybe,No,Yes,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+175,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+176,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+177,very high,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+178,very high,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+179,very high,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+180,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+181,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+182,very high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+183,very high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+184,very high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+185,very high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+186,very high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+187,very high,No,No,Maybe,No,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+188,very high,No,No,Maybe,No,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+189,very high,No,No,Maybe,No,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+190,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+191,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,No,Covid,High
+192,very high,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+193,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+194,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+195,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+196,very high,No,Maybe,Maybe,No,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+197,very high,No,Maybe,Maybe,No,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+198,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+199,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+200,very high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+201,very high,Maybe,No,Yes,Maybe,No,No,No,No,Foreign Travel,Fever,No
+202,very high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+203,very high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+204,very high,Maybe,No,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+205,very high,Maybe,No,Yes,Maybe,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+206,very high,Maybe,No,Yes,Maybe,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+207,very high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+208,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+209,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,No,Covid,Very High
+210,very high,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+211,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+212,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+213,very high,Maybe,Maybe,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+214,very high,Maybe,Maybe,Yes,Maybe,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+215,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+216,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+217,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+218,very high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+235,very high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+236,very high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+237,very high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+238,very high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+239,very high,No,No,Maybe,No,No,No,Yes,Yes,Foreign Travel,Fever,No
+240,very high,No,No,Maybe,No,No,Yes,No,Yes,Foreign Travel,Fever,No
+241,very high,No,No,Maybe,No,No,Yes,Yes,No,Foreign Travel,Fever,No
+242,very high,No,Maybe,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+243,very high,No,Maybe,Maybe,No,No,Yes,Yes,Yes,No,Fever,No
+244,very high,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+245,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+246,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+247,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+248,very high,No,Maybe,Maybe,No,Maybe,Maybe,Yes,Yes,Foreign Travel,Fever,No
+249,very high,No,Maybe,Maybe,No,Maybe,Yes,Maybe,Yes,Foreign Travel,Fever,No
+250,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Maybe,Foreign Travel,Fever,No
+251,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+252,very high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Local Travel,Fever,No
+253,very high,Maybe,No,Yes,Maybe,Maybe,No,No,No,Foreign Travel,Cold,No
+254,very high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+255,very high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+256,very high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+257,very high,Maybe,No,Yes,Maybe,Maybe,No,Yes,Yes,Foreign Travel,Cold,No
+258,very high,Maybe,No,Yes,Maybe,Maybe,Yes,No,Yes,Foreign Travel,Cold,No
+259,very high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,No,Foreign Travel,Cold,No
+260,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+261,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,No,Cold,No
+262,very high,Maybe,Maybe,Yes,Maybe,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,No
+263,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+264,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+265,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+266,very high,Maybe,Maybe,Yes,Maybe,No,Maybe,Yes,Yes,Foreign Travel,Cold,No
+267,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Maybe,Yes,Foreign Travel,Cold,No
+268,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Maybe,Foreign Travel,Cold,No
+269,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+270,very high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Local Travel,Cold,No
+271,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+272,high,No,No,No,No,No,No,No,No,No,Fever,No
+273,high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Local Travel,Covid,low
+274,high,Yes,No,No,No,No,No,No,No,No,Flu,No
+275,high,Yes,No,No,No,No,No,No,No,No,Fever,No
+276,high,Yes,No,No,No,No,No,No,No,No,Fever,No
+277,high,Yes,No,No,No,No,No,No,No,Local Travel,Fever,No
+278,high,Yes,No,No,No,No,No,No,No,No,Fever,No
+279,high,Yes,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+280,high,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+281,high,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+282,high,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+283,high,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+284,high,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+285,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+286,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+287,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+288,high,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+289,high,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+290,high,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+291,high,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+292,high,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+293,high,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+294,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+295,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+296,high,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+297,high,No,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+298,high,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+299,high,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+300,high,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+301,high,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+302,high,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+303,high,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+304,high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+305,high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+306,high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+307,high,No,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+308,high,No,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+309,high,No,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+310,high,No,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+311,high,No,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+312,high,No,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+313,high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+314,high,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+315,high,Maybe,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+316,high,Maybe,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+317,high,Maybe,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+318,high,Maybe,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+319,high,Maybe,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+320,high,Maybe,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+321,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+322,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+323,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+324,high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+325,high,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+326,high,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+327,high,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+328,high,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+329,high,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+330,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+331,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+332,high,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+333,high,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+334,high,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+335,high,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+336,high,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+337,high,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+338,high,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+339,high,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+340,high,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+341,high,Yes,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+342,high,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+343,high,Yes,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+344,high,Yes,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+345,high,Yes,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+346,high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+347,high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+348,high,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+349,high,No,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+350,high,No,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+351,high,No,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+352,high,No,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+353,high,No,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+354,high,No,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+355,high,No,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+356,high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+357,high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+358,high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+359,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+360,high,No,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+361,high,No,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+362,high,No,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+363,high,No,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+364,high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+365,high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+366,high,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+367,high,Maybe,No,No,No,No,No,No,No,Foreign Travel,Fever,No
+368,high,Maybe,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+369,high,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+370,high,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+371,high,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+372,high,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+373,high,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+374,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+375,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+376,high,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+377,high,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+378,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+379,high,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+380,high,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+381,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+382,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+383,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+384,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+385,high,Yes,No,No,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+386,high,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+387,high,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+388,high,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+389,high,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+390,high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+391,high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+392,high,Yes,Maybe,No,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+393,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+394,high,Yes,Maybe,No,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+395,high,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+396,high,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+397,high,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+398,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+399,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+400,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+401,high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+402,high,No,No,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+403,high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+404,high,No,No,Maybe,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+405,high,No,No,Maybe,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+406,high,No,No,Maybe,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+407,high,No,No,Maybe,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+408,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+409,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+410,high,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+411,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+412,high,No,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+413,high,No,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+414,high,No,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+415,high,No,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+416,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+417,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+418,high,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+419,high,Maybe,No,Yes,No,No,No,No,No,Foreign Travel,Fever,No
+420,high,Maybe,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+421,high,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+422,high,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+423,high,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+424,high,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+425,high,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+426,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+427,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,Very High
+428,high,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+429,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+430,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+431,high,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+432,high,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+433,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+434,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+435,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+436,high,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+437,high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+438,high,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+439,high,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+440,high,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,Very high
+441,high,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,Very high
+442,high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+443,high,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Covid,Very high
+444,high,Yes,Maybe,No,Yes,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+445,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+446,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+447,high,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+448,high,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+449,high,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very high
+450,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very high
+451,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very high
+452,high,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,Very high
+453,high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+454,high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+455,high,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+456,high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,Medium
+457,high,No,No,Maybe,No,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+458,high,No,No,Maybe,No,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+459,high,No,No,Maybe,No,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+460,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+461,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,No,Covid,High
+462,high,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+463,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+464,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+465,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,High
+466,high,No,Maybe,Maybe,No,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,High
+467,high,No,Maybe,Maybe,No,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+468,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+469,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+470,high,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+471,high,Maybe,No,Yes,Maybe,No,No,No,No,Foreign Travel,Fever,No
+472,high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+473,high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+474,high,Maybe,No,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Fever,High
+475,high,Maybe,No,Yes,Maybe,Yes,No,Yes,Yes,Foreign Travel,Covid,High
+476,high,Maybe,No,Yes,Maybe,Yes,Yes,No,Yes,Foreign Travel,Covid,Very High
+477,high,Maybe,No,Yes,Maybe,Yes,Yes,Yes,No,Foreign Travel,Covid,Very High
+478,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+479,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,No,Covid,Very High
+480,high,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+481,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+482,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,Very High
+483,high,Maybe,Maybe,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,Very High
+484,high,Maybe,Maybe,Yes,Maybe,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Very High
+485,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,Very High
+486,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,Very High
+487,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+488,high,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Local Travel,Covid,Very High
+505,high,No,No,Maybe,No,No,No,No,No,Foreign Travel,Fever,No
+506,high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+507,high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+508,high,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+509,high,No,No,Maybe,No,No,No,Yes,Yes,Foreign Travel,Fever,No
+510,high,No,No,Maybe,No,No,Yes,No,Yes,Foreign Travel,Fever,No
+511,high,No,No,Maybe,No,No,Yes,Yes,No,Foreign Travel,Fever,No
+512,high,No,Maybe,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Fever,No
+513,high,No,Maybe,Maybe,No,No,Yes,Yes,Yes,No,Fever,No
+514,high,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Fever,No
+515,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+516,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+517,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+518,high,No,Maybe,Maybe,No,Maybe,Maybe,Yes,Yes,Foreign Travel,Fever,No
+519,high,No,Maybe,Maybe,No,Maybe,Yes,Maybe,Yes,Foreign Travel,Fever,No
+520,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Maybe,Foreign Travel,Fever,No
+521,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Fever,No
+522,high,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Local Travel,Fever,No
+523,high,Maybe,No,Yes,Maybe,Maybe,No,No,No,Foreign Travel,Cold,No
+524,high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+525,high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+526,high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+527,high,Maybe,No,Yes,Maybe,Maybe,No,Yes,Yes,Foreign Travel,Cold,No
+528,high,Maybe,No,Yes,Maybe,Maybe,Yes,No,Yes,Foreign Travel,Cold,No
+529,high,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,No,Foreign Travel,Cold,No
+530,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+531,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,No,Cold,No
+532,high,Maybe,Maybe,Yes,Maybe,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,No
+533,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+534,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+535,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+536,high,Maybe,Maybe,Yes,Maybe,No,Maybe,Yes,Yes,Foreign Travel,Cold,No
+537,high,Maybe,Maybe,Yes,Maybe,No,Yes,Maybe,Yes,Foreign Travel,Cold,No
+538,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Maybe,Foreign Travel,Cold,No
+539,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+540,high,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Local Travel,Cold,No
+541,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+542,normal,No,No,No,No,No,No,No,No,No,Healthy,No
+543,normal,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Local Travel,Healthy,Low
+544,normal,Yes,No,No,No,No,No,No,No,No,Healthy,No
+545,normal,Yes,No,No,No,No,No,No,No,No,Healthy,No
+546,normal,Yes,No,No,No,No,No,No,No,No,Healthy,No
+547,normal,Yes,No,No,No,No,No,No,No,Local Travel,Healthy,No
+548,normal,Yes,No,No,No,No,No,No,No,No,Healthy,No
+549,normal,Yes,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+550,normal,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+551,normal,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+552,normal,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+553,normal,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+554,normal,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+555,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+556,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+557,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+558,normal,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+559,normal,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+560,normal,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+561,normal,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+562,normal,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Medium
+563,normal,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+564,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+565,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+566,normal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+567,normal,No,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+568,normal,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+569,normal,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Low
+570,normal,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Low
+571,normal,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+572,normal,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+573,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+574,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+575,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+576,normal,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+577,normal,No,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+578,normal,No,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+579,normal,No,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Low
+580,normal,No,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Low
+581,normal,No,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+582,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+583,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+584,normal,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+585,normal,Maybe,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+586,normal,Maybe,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+587,normal,Maybe,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+588,normal,Maybe,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+589,normal,Maybe,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+590,normal,Maybe,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+591,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+592,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+593,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+594,normal,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+595,normal,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+596,normal,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+597,normal,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+598,normal,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+599,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+600,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+601,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+602,normal,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+603,normal,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+604,normal,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+605,normal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,No
+606,normal,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+607,normal,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+608,normal,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+609,normal,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+610,normal,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+611,normal,Yes,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+612,normal,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+613,normal,Yes,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+614,normal,Yes,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Medium
+615,normal,Yes,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,low
+616,normal,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,low
+617,normal,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,low
+618,normal,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,low
+619,normal,No,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+620,normal,No,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+621,normal,No,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+622,normal,No,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+623,normal,No,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,Low
+624,normal,No,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,Low
+625,normal,No,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,Low
+626,normal,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+627,normal,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Weak immunity,Low
+628,normal,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+629,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+630,normal,No,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+631,normal,No,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+632,normal,No,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Weak immunity,Low
+633,normal,No,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Weak immunity,Low
+634,normal,No,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Weak immunity,Low
+635,normal,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+636,normal,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Weak immunity,Low
+637,normal,Maybe,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+638,normal,Maybe,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+639,normal,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+640,normal,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,No
+641,normal,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,Low
+642,normal,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,Low
+643,normal,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,Low
+644,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+645,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Weak immunity,Medium
+646,normal,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+647,normal,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+648,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+649,normal,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+650,normal,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+651,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+652,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+653,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+654,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+655,normal,Yes,No,No,No,Yes,Yes,Yes,Yes,Foreign Travel,Healthy,No
+656,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+657,normal,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+658,normal,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+659,normal,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+660,normal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+661,normal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+662,normal,Yes,Maybe,No,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+663,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+664,normal,Yes,Maybe,No,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+665,normal,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+666,normal,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+667,normal,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+668,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+669,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+670,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+671,normal,No,No,Maybe,No,No,No,No,No,Foreign Travel,Healthy,No
+672,normal,No,No,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+673,normal,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Low
+674,normal,No,No,Maybe,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Low
+675,normal,No,No,Maybe,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+676,normal,No,No,Maybe,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+677,normal,No,No,Maybe,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+678,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+679,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+680,normal,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,Medium
+681,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+682,normal,No,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+683,normal,No,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+684,normal,No,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+685,normal,No,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+686,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+687,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+688,normal,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+689,normal,Maybe,No,Yes,No,No,No,No,No,Foreign Travel,Cold,Medium
+690,normal,Maybe,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+691,normal,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+692,normal,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+693,normal,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+694,normal,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+695,normal,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+696,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+697,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+698,normal,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,Medium
+699,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+700,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+701,normal,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,low,low
+702,normal,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+703,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+704,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+705,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+706,normal,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+707,normal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+708,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+709,normal,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+710,normal,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+711,normal,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+712,normal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+713,normal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+714,normal,Yes,Maybe,No,Yes,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+715,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+716,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+717,normal,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+718,normal,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+719,normal,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+720,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+721,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+722,normal,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+723,normal,No,No,Maybe,No,No,No,No,No,Foreign Travel,Weak immunity,No
+724,normal,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+725,normal,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+726,normal,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+727,normal,No,No,Maybe,No,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,low
+728,normal,No,No,Maybe,No,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,low
+729,normal,No,No,Maybe,No,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,low
+730,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+731,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,No,Weak immunity,low
+732,normal,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Weak immunity,low
+733,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+734,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+735,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+736,normal,No,Maybe,Maybe,No,Yes,Maybe,Yes,Yes,Foreign Travel,Weak immunity,low
+737,normal,No,Maybe,Maybe,No,Yes,Yes,Maybe,Yes,Foreign Travel,Weak immunity,low
+738,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Maybe,Foreign Travel,Weak immunity,low
+739,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+740,normal,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Local Travel,Weak immunity,low
+741,normal,Maybe,No,Yes,Maybe,No,No,No,No,Foreign Travel,Cold,low
+742,normal,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+743,normal,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+744,normal,Maybe,No,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+745,normal,Maybe,No,Yes,Maybe,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+746,normal,Maybe,No,Yes,Maybe,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+747,normal,Maybe,No,Yes,Maybe,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+748,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+749,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,No,Cold,low
+750,normal,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+751,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+752,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+753,normal,Maybe,Maybe,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+754,normal,Maybe,Maybe,Yes,Maybe,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+755,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+756,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+757,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+758,normal,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+759,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+760,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+761,normal,Yes,No,No,Yes,No,No,Yes,Yes,Foreign Travel,Cold,low
+762,normal,Yes,No,No,Yes,No,Yes,No,Yes,Foreign Travel,Cold,low
+763,normal,Yes,No,No,Yes,No,Yes,Yes,No,Foreign Travel,Cold,low
+764,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+765,normal,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Cold,low
+766,normal,Yes,Maybe,No,Yes,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+767,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+768,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+769,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+770,normal,Yes,Maybe,No,Yes,No,Maybe,Yes,Yes,Foreign Travel,Cold,low
+771,normal,Yes,Maybe,No,Yes,No,Yes,Maybe,Yes,Foreign Travel,Cold,low
+772,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Maybe,Foreign Travel,Cold,low
+773,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+774,normal,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Local Travel,Cold,low
+775,normal,No,No,Maybe,No,No,No,No,No,Foreign Travel,Healthy,No
+776,normal,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+777,normal,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+778,normal,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+779,normal,No,No,Maybe,No,No,No,Yes,Yes,Foreign Travel,Healthy,No
+780,normal,No,No,Maybe,No,No,Yes,No,Yes,Foreign Travel,Healthy,No
+781,normal,No,No,Maybe,No,No,Yes,Yes,No,Foreign Travel,Healthy,No
+782,normal,No,Maybe,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+783,normal,No,Maybe,Maybe,No,No,Yes,Yes,Yes,No,Healthy,No
+784,normal,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+785,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+786,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+787,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+788,normal,No,Maybe,Maybe,No,Maybe,Maybe,Yes,Yes,Foreign Travel,Healthy,No
+789,normal,No,Maybe,Maybe,No,Maybe,Yes,Maybe,Yes,Foreign Travel,Healthy,No
+790,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Maybe,Foreign Travel,Healthy,No
+791,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+792,normal,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Local Travel,Healthy,No
+793,normal,Maybe,No,Yes,Maybe,Maybe,No,No,No,Foreign Travel,Cold,No
+794,normal,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+795,normal,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+796,normal,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+797,normal,Maybe,No,Yes,Maybe,Maybe,No,Yes,Yes,Foreign Travel,Cold,No
+798,normal,Maybe,No,Yes,Maybe,Maybe,Yes,No,Yes,Foreign Travel,Cold,No
+799,normal,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,No,Foreign Travel,Cold,No
+800,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+801,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,No,Cold,No
+802,normal,Maybe,Maybe,Yes,Maybe,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,No
+803,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+804,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+805,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+806,normal,Maybe,Maybe,Yes,Maybe,No,Maybe,Yes,Yes,Foreign Travel,Cold,No
+807,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Maybe,Yes,Foreign Travel,Cold,No
+808,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Maybe,Foreign Travel,Cold,No
+809,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+810,normal,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Local Travel,Cold,No
+811,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+812,low,No,No,No,No,No,No,No,No,No,Healthy,No
+813,low,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Local Travel,Healthy,Low
+814,low,Yes,No,No,No,No,No,No,No,No,Healthy,No
+815,low,Yes,No,No,No,No,No,No,No,No,Healthy,No
+816,low,Yes,No,No,No,No,No,No,No,No,Healthy,No
+817,low,Yes,No,No,No,No,No,No,No,Local Travel,Healthy,No
+818,low,Yes,No,No,No,No,No,No,No,No,Healthy,No
+819,low,Yes,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+820,low,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+821,low,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+822,low,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+823,low,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Covid,Medium
+824,low,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Covid,High
+825,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Covid,High
+826,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+827,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Covid,High
+828,low,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+829,low,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+830,low,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+831,low,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+832,low,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Medium
+833,low,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,High
+834,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,High
+835,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+836,low,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,High
+837,low,No,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+838,low,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+839,low,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Low
+840,low,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Low
+841,low,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+842,low,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+843,low,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+844,low,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+845,low,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+846,low,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+847,low,No,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+848,low,No,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+849,low,No,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Low
+850,low,No,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Low
+851,low,No,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+852,low,No,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+853,low,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+854,low,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+855,low,Maybe,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+856,low,Maybe,Yes,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+857,low,Maybe,Yes,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+858,low,Maybe,Yes,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+859,low,Maybe,Yes,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+860,low,Maybe,Yes,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+861,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+862,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+863,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+864,low,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+865,low,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+866,low,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+867,low,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+868,low,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+869,low,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+870,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+871,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+872,low,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+873,low,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+874,low,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+875,low,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,No
+876,low,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+877,low,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+878,low,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+879,low,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+880,low,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+881,low,Yes,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+882,low,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Covid,High
+883,low,Yes,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Covid,Medium
+884,low,Yes,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Covid,Medium
+885,low,Yes,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Covid,low
+886,low,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Covid,low
+887,low,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Covid,low
+888,low,Yes,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Covid,low
+889,low,No,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+890,low,No,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+891,low,No,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+892,low,No,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+893,low,No,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,Low
+894,low,No,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,Low
+895,low,No,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,Low
+896,low,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+897,low,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Weak immunity,Low
+898,low,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+899,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+900,low,No,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+901,low,No,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+902,low,No,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Weak immunity,Low
+903,low,No,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Weak immunity,Low
+904,low,No,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Weak immunity,Low
+905,low,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+906,low,No,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Weak immunity,Low
+907,low,Maybe,No,No,No,No,No,No,No,Foreign Travel,Healthy,No
+908,low,Maybe,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+909,low,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Low
+910,low,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,No
+911,low,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,Low
+912,low,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,Low
+913,low,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,Low
+914,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,Medium
+915,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Weak immunity,Medium
+916,low,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+917,low,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+918,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+919,low,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+920,low,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+921,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+922,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+923,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+924,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+925,low,Yes,No,No,No,Yes,Yes,Yes,Yes,Foreign Travel,Healthy,No
+926,low,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+927,low,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+928,low,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+929,low,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+930,low,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+931,low,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+932,low,Yes,Maybe,No,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+933,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+934,low,Yes,Maybe,No,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+935,low,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+936,low,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+937,low,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+938,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+939,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+940,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+941,low,No,No,Maybe,No,No,No,No,No,Foreign Travel,Healthy,No
+942,low,No,No,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+943,low,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Low
+944,low,No,No,Maybe,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Low
+945,low,No,No,Maybe,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+946,low,No,No,Maybe,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+947,low,No,No,Maybe,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+948,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+949,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+950,low,No,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,Medium
+951,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+952,low,No,Maybe,Maybe,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+953,low,No,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+954,low,No,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,Medium
+955,low,No,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,Medium
+956,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,Medium
+957,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+958,low,No,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,Medium
+959,low,Maybe,No,Yes,No,No,No,No,No,Foreign Travel,Cold,Medium
+960,low,Maybe,No,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+961,low,Maybe,No,Yes,No,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+962,low,Maybe,No,Yes,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+963,low,Maybe,No,Yes,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,Medium
+964,low,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,Medium
+965,low,Maybe,No,Yes,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,Medium
+966,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+967,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,No,Cold,Medium
+968,low,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,Medium
+969,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+970,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,Medium
+971,low,Maybe,Maybe,Yes,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,low,low
+972,low,Maybe,Maybe,Yes,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+973,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+974,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+975,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+976,low,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+977,low,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+978,low,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+979,low,Yes,No,No,Yes,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+980,low,Yes,No,No,Yes,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+981,low,Yes,No,No,Yes,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+982,low,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+983,low,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Cold,low
+984,low,Yes,Maybe,No,Yes,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+985,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+986,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+987,low,Yes,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+988,low,Yes,Maybe,No,Yes,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+989,low,Yes,Maybe,No,Yes,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+990,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+991,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+992,low,Yes,Maybe,No,Yes,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+993,low,No,No,Maybe,No,No,No,No,No,Foreign Travel,Weak immunity,No
+994,low,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+995,low,No,No,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+996,low,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+997,low,No,No,Maybe,No,Yes,No,Yes,Yes,Foreign Travel,Weak immunity,low
+998,low,No,No,Maybe,No,Yes,Yes,No,Yes,Foreign Travel,Weak immunity,low
+999,low,No,No,Maybe,No,Yes,Yes,Yes,No,Foreign Travel,Weak immunity,low
+1000,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+1001,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,No,Weak immunity,low
+1002,low,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Weak immunity,low
+1003,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+1004,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+1005,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+1006,low,No,Maybe,Maybe,No,Yes,Maybe,Yes,Yes,Foreign Travel,Weak immunity,low
+1007,low,No,Maybe,Maybe,No,Yes,Yes,Maybe,Yes,Foreign Travel,Weak immunity,low
+1008,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Maybe,Foreign Travel,Weak immunity,low
+1009,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Foreign Travel,Weak immunity,low
+1010,low,No,Maybe,Maybe,No,Yes,Yes,Yes,Yes,Local Travel,Weak immunity,low
+1011,low,Maybe,No,Yes,Maybe,No,No,No,No,Foreign Travel,Cold,low
+1012,low,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1013,low,Maybe,No,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1014,low,Maybe,No,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1015,low,Maybe,No,Yes,Maybe,Yes,No,Yes,Yes,Foreign Travel,Cold,low
+1016,low,Maybe,No,Yes,Maybe,Yes,Yes,No,Yes,Foreign Travel,Cold,low
+1017,low,Maybe,No,Yes,Maybe,Yes,Yes,Yes,No,Foreign Travel,Cold,low
+1018,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1019,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,No,Cold,low
+1020,low,Maybe,Maybe,Yes,Maybe,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+1021,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1022,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1023,low,Maybe,Maybe,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,low
+1024,low,Maybe,Maybe,Yes,Maybe,Yes,Maybe,Yes,Yes,Foreign Travel,Cold,low
+1025,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Maybe,Yes,Foreign Travel,Cold,low
+1026,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Maybe,Foreign Travel,Cold,low
+1027,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Foreign Travel,Cold,low
+1028,low,Maybe,Maybe,Yes,Maybe,Yes,Yes,Yes,Yes,Local Travel,Cold,low
+1029,low,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1030,low,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1031,low,Yes,No,No,Yes,No,No,Yes,Yes,Foreign Travel,Cold,low
+1032,low,Yes,No,No,Yes,No,Yes,No,Yes,Foreign Travel,Cold,low
+1033,low,Yes,No,No,Yes,No,Yes,Yes,No,Foreign Travel,Cold,low
+1034,low,Yes,No,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1035,low,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Cold,low
+1036,low,Yes,Maybe,No,Yes,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,low
+1037,low,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1038,low,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1039,low,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1040,low,Yes,Maybe,No,Yes,No,Maybe,Yes,Yes,Foreign Travel,Cold,low
+1041,low,Yes,Maybe,No,Yes,No,Yes,Maybe,Yes,Foreign Travel,Cold,low
+1042,low,Yes,Maybe,No,Yes,No,Yes,Yes,Maybe,Foreign Travel,Cold,low
+1043,low,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Foreign Travel,Cold,low
+1044,low,Yes,Maybe,No,Yes,No,Yes,Yes,Yes,Local Travel,Cold,low
+1045,low,No,No,Maybe,No,No,No,No,No,Foreign Travel,Healthy,No
+1046,low,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1047,low,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1048,low,No,No,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1049,low,No,No,Maybe,No,No,No,Yes,Yes,Foreign Travel,Healthy,No
+1050,low,No,No,Maybe,No,No,Yes,No,Yes,Foreign Travel,Healthy,No
+1051,low,No,No,Maybe,No,No,Yes,Yes,No,Foreign Travel,Healthy,No
+1052,low,No,Maybe,Maybe,No,No,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1053,low,No,Maybe,Maybe,No,No,Yes,Yes,Yes,No,Healthy,No
+1054,low,No,Maybe,Maybe,No,Maybe,Maybe,Maybe,Maybe,Foreign Travel,Healthy,No
+1055,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1056,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1057,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1058,low,No,Maybe,Maybe,No,Maybe,Maybe,Yes,Yes,Foreign Travel,Healthy,No
+1059,low,No,Maybe,Maybe,No,Maybe,Yes,Maybe,Yes,Foreign Travel,Healthy,No
+1060,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Maybe,Foreign Travel,Healthy,No
+1061,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Foreign Travel,Healthy,No
+1062,low,No,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Local Travel,Healthy,No
+1063,low,Maybe,No,Yes,Maybe,Maybe,No,No,No,Foreign Travel,Cold,No
+1064,low,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+1065,low,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+1066,low,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,Yes,Foreign Travel,Cold,No
+1067,low,Maybe,No,Yes,Maybe,Maybe,No,Yes,Yes,Foreign Travel,Cold,No
+1068,low,Maybe,No,Yes,Maybe,Maybe,Yes,No,Yes,Foreign Travel,Cold,No
+1069,low,Maybe,No,Yes,Maybe,Maybe,Yes,Yes,No,Foreign Travel,Cold,No
+1070,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+1071,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,No,Cold,No
+1072,low,Maybe,Maybe,Yes,Maybe,No,Maybe,Maybe,Maybe,Foreign Travel,Cold,No
+1073,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+1074,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+1075,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+1076,low,Maybe,Maybe,Yes,Maybe,No,Maybe,Yes,Yes,Foreign Travel,Cold,No
+1077,low,Maybe,Maybe,Yes,Maybe,No,Yes,Maybe,Yes,Foreign Travel,Cold,No
+1078,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Maybe,Foreign Travel,Cold,No
+1079,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Foreign Travel,Cold,No
+1080,low,Maybe,Maybe,Yes,Maybe,No,Yes,Yes,Yes,Local Travel,Cold,No
